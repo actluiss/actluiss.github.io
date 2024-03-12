@@ -1,0 +1,72 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: white;
+	text-align: center;
+}
+
+body {
+	background-color: #404040;
+	width: 960px;
+	margin: 0 auto;
+}
+
+nav {
+	background-color:#686868;
+	padding:10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color:#686868;
+	padding:10px;
+	margin: 10px;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h2 {
+    font-family: 'Courier New', monospace;
+    font-style: italic;
+}
+
+.mart {
+	float: left;
+}
+
+.mart2 {
+	float: right;
+}
+
+.mart3 {
+	float: left;
+}
+
+.mart4 {
+	float: 0 auto;
+}
+
+.mart5 {
+	float: right;
+}
+
+.mart6 {
+	float: left;
+}
+
+footer {
+	background-color:#686868;
+	padding:10px;
+	margin: 10px;
+}
